@@ -196,12 +196,13 @@ p{
 }
 
 @media (max-width: 1028px) {
-  .title-image{
+  #mediaq-align{
+
     position: static;
     text-align: center;
-    padding:5% 0 5%;
-
-
+  }
+  .title-image{
+    position: static;
   }
 
 }

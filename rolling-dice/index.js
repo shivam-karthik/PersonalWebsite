@@ -30,5 +30,5 @@ else {
   document.querySelector("h1").innerHTML = "Draw"
 }
 
-var url = document.querySelector(".container a");
+var url = document.querySelector("#contents a");
 url.setAttribute("href", "index.html")
